@@ -1,0 +1,17 @@
+header {
+single {
+btn-active
+}
+}
+container {
+row {
+single {
+img
+}
+}
+row {
+single {
+big-title
+}
+}
+}
